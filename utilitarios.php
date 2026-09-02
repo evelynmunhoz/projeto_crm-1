@@ -139,4 +139,10 @@ function encontrarMaiorContrato(array $clientes): float
 
     return $maior;
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 05240105955593b7d5748e54dd664b023b431ba3
 ?>

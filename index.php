@@ -297,7 +297,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     <p style="color: rgb(185, 162, 148);">
 
+<<<<<<< HEAD
         <label email_cadastro">
+=======
+        <label for="email_cadastro">
+>>>>>>> 05240105955593b7d5748e54dd664b023b431ba3
             E-mail:
         </label>
 
